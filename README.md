@@ -1,0 +1,2 @@
+# open_source_project_of_nanchang_university
+一份南昌大学的开源计划，意在为同学们在包括但不限于转专业、实验班。公选课等方面提供信息与帮助
